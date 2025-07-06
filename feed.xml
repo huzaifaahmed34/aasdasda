@@ -10,12 +10,12 @@
  
   <channel> 
     <title></title>
-    <atom:link href="https://astounding-puppy-9ecb27.netlify.appfeed.xml" rel="self" type="application/rss+xml"/>
-    <link>https://astounding-puppy-9ecb27.netlify.app1.html</link>
-    <description><p>Explore the significance of &quot;1&quot; — the foundation of numbers, a symbol of unity and simplicity in mathematics and beyond.</p>
-<p>Explore the significance of the number 2, its properties in mathematics, and its impact across various cultures and systems.</p>
+    <atom:link href="https://astounding-puppy-9ecb27.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://astounding-puppy-9ecb27.netlify.app/1.html</link>
+    <description><p>&quot;Explore the significance and various roles of the number 1—from mathematics to philosophy, its the symbol of unity and singularity.&quot;</p>
+<p>Explore the significance of the number 2, its properties in mathematics, symbolism in cultures, and role in daily life.</p>
 </description>
-    <lastBuildDate>Sun, 06 Jul 2025 10:20:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 10:25:25 +0000</lastBuildDate>
     <language>en-US</language>
     <sy:updatePeriod>
     hourly  </sy:updatePeriod>
@@ -24,18 +24,22 @@
   
 <item>
     <title>1</title>
-    <link>https://astounding-puppy-9ecb27.netlify.app1.html</link>
-    <pubDate>Sun, 06 Jul 2025 10:20:53 +0000</pubDate>
-    <category><![CDATA[SEO FAQ]]></category><guid  isPermaLink="false" >https://astounding-puppy-9ecb27.netlify.app1.html?p=686a4e05c68bf</guid>
+    <link>https://astounding-puppy-9ecb27.netlify.app/1.html</link>
+    <pubDate>Sun, 06 Jul 2025 10:25:25 +0000</pubDate>
+    <category><![CDATA[SEO FAQ]]></category>
+    <media:content url="https://astounding-puppy-9ecb27.netlify.app/img/istockphoto-544452292-612x612.jpg" />
+    <guid  isPermaLink="false" >https://astounding-puppy-9ecb27.netlify.app/1.html?p=686a4f15a4ff2</guid>
     <description><![CDATA[]]></description>
     <content:encoded><![CDATA[]]></content:encoded>
 </item>
 
 <item>
     <title>2</title>
-    <link>https://astounding-puppy-9ecb27.netlify.app2.html</link>
-    <pubDate>Sun, 06 Jul 2025 10:20:53 +0000</pubDate>
-    <category><![CDATA[SEO FAQ]]></category><guid  isPermaLink="false" >https://astounding-puppy-9ecb27.netlify.app2.html?p=686a4e05c68cf</guid>
+    <link>https://astounding-puppy-9ecb27.netlify.app/2.html</link>
+    <pubDate>Sun, 06 Jul 2025 10:25:25 +0000</pubDate>
+    <category><![CDATA[SEO FAQ]]></category>
+    <media:content url="https://astounding-puppy-9ecb27.netlify.app/img/istockphoto-544452292-612x612.jpg" />
+    <guid  isPermaLink="false" >https://astounding-puppy-9ecb27.netlify.app/2.html?p=686a4f15a506b</guid>
     <description><![CDATA[]]></description>
     <content:encoded><![CDATA[]]></content:encoded>
 </item>
